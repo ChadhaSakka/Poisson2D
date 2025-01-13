@@ -74,7 +74,3 @@ cmake --build .
 **Chadha Sakka**  
 Étudiante en **Master 2 HPC & Simulation**  
 Université Paris-Saclay
-
----
-
-Ce README est court, précis, et contient les informations nécessaires pour comprendre et utiliser votre projet.
