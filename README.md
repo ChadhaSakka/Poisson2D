@@ -1,7 +1,3 @@
-Voici une version **plus concise** de votre `README.md`, qui reste claire et informative sans être trop détaillée.
-
----
-
 # Projet : **Résolution de l'équation de Poisson 2D**
 
 ## Description
